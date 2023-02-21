@@ -4,7 +4,7 @@
 
 Amor incondicional pela T.I
 
-- 👨🏽‍💻 Estudante Cyber Security | Red TEAMS 
+- 👨🏽‍💻 Estudante Cyber Security | Red Teams 
 - 💙 Fã de Automatizar processos com Python e Selenium
 - 💻 Analista suporte N2 
 - ❤️‍🔥 Fã de ataques de enganharia social
