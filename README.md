@@ -1,11 +1,14 @@
-# Olá,bom ter você por aqui! (づ ᴗ _ᴗ)づ♡
+<img src = "banner.gif" width = "325px" align = "right">
+
+# ( ͡° ͜ʖ ͡°) Olá humano(a)
   <div id="badges">
   <a href = "https://github.com/risoflorais">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn Badge](https://www.linkedin.com/in/natanaellima10/)"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/natanaellima10/"/>
+  </a>
 
-Sou estudante de Ethical Hacker | Red Team e automatização de processos com Python.
+</div>
 
-<img src = "banner.gif" width = "325px" align = "right">
+Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
 
 - ❤ Estudante de Game Design
 - 💙 Fã da Alura
