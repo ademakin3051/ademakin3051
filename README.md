@@ -14,7 +14,11 @@ Amor incondicional pela T.I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" width="40" height="40/>&nbsp;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" title="SSH" width="40" height="40/>&nbsp;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40/>&nbsp;"/>
-
-
-
 <div>
+
+  --- 
+   
+  <div id="badges">
+  <a href = "https://www.linkedin.com/in/natanaellima10/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
