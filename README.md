@@ -2,7 +2,7 @@
 
 # ( ͡° ͜ʖ ͡°) Olá humano(a)
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://github.com/risoflorais](https://www.linkedin.com/in/natanaellima10/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/natanaellima10/"/>
   </a>
 
