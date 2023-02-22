@@ -8,6 +8,7 @@ Amor incondicional pela T.I
 - 💙 Fã de Automatizar processos com Python e Selenium
 - 💻 Analista suporte N2 
 - ❤️‍🔥 Fã de ataques de enganharia social
+
 ---
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40/>&nbsp;"/>
@@ -22,3 +23,20 @@ Amor incondicional pela T.I
   <a href = "https://www.linkedin.com/in/natanaellima10/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    
+---
+    
+<table style = "border: 0px solid;">
+<tr>
+  
+<td>   
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademakin3051&show_icons=true&theme=bear&count_private=true"/>
+</td>
+  
+<td>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ademakin3051&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</td>
+
+ </tr>
+ </table>
