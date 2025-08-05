@@ -5,7 +5,7 @@
 Amor incondicional pela T.I
 
 - 👨🏽‍💻 Estudante Cyber Security | Red Team 
-- 💙 RPA (N8N, Zapier, Integromat, Uipach, Python)
+- 💙 RPA (N8N, Zapier, Integromat, Uipath, Python)
 - 💻 Analista suporte N1 e N2
 - ❤️‍🔥 Fã de ataques de enganharia social
 
