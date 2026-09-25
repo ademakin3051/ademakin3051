@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400">
+  <style>
+    .t { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 15px; fill: #c9d1d9; white-space: pre; }
+    .g { fill: #00ff41; }
+    .d { fill: #6e7681; }
+    .r { fill: #ff5f56; }
+    .y { fill: #ffbd2e; }
+    .b { font-weight: 700; }
+    .l { opacity: 0; animation: in .01s linear forwards; }
+    @keyframes in { to { opacity: 1; } }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .scan { animation: sweep 3s linear infinite; }
+    @keyframes sweep { from { transform: translateY(40px); } to { transform: translateY(400px); } }
+  </style>
+
+  <rect width="860" height="400" rx="10" fill="#0d1117" stroke="#00ff41" stroke-opacity=".35"/>
+  <rect width="860" height="34" rx="10" fill="#161b22"/>
+  <rect y="24" width="860" height="10" fill="#161b22"/>
+  <circle cx="20" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="17" r="6" fill="#27c93f"/>
+  <text x="430" y="22" text-anchor="middle" class="t d" style="font-size:13px">natanael@kali: ~</text>
+
+  <rect class="scan" x="1" y="0" width="858" height="2" fill="#00ff41" opacity=".12"/>
+
+  <text x="24" y="66" class="t l" style="animation-delay:.2s"><tspan class="g b">┌──(natanael㉿kali)-[~]</tspan></text>
+  <text x="24" y="88" class="t l" style="animation-delay:.4s"><tspan class="g b">└─$</tspan> nmap -sV --script=skills natanaellima.blog</text>
+
+  <text x="24" y="120" class="t l d" style="animation-delay:1.2s">Starting Nmap ( https://nmap.org ) · alvo: Natanael Lima</text>
+  <text x="24" y="142" class="t l d" style="animation-delay:1.6s">Host is up (0.001s latency). Localização: Portugal 🇵🇹</text>
+
+  <text x="24" y="174" class="t l b" style="animation-delay:2.1s">PORT       STATE     SERVICE      VERSION</text>
+  <text x="24" y="198" class="t l" style="animation-delay:2.5s">22/tcp     <tspan class="g">open</tspan>      red-team     Kali · Metasploit · Nmap · Wireshark</text>
+  <text x="24" y="220" class="t l" style="animation-delay:2.9s">80/tcp     <tspan class="g">open</tspan>      osint        Google Dorks · WPScan · Eng. Social</text>
+  <text x="24" y="242" class="t l" style="animation-delay:3.3s">443/tcp    <tspan class="g">open</tspan>      automation   Python · n8n · Zapier · Make · Selenium</text>
+  <text x="24" y="264" class="t l" style="animation-delay:3.7s">3000/tcp   <tspan class="g">open</tspan>      ai-bots      OpenAI · WhatsApp API · GLPI API</text>
+  <text x="24" y="286" class="t l" style="animation-delay:4.1s">8080/tcp   <tspan class="g">open</tspan>      support      N1/N2 · Linux · Windows · macOS</text>
+  <text x="24" y="308" class="t l" style="animation-delay:4.5s">31337/tcp  <tspan class="y">filtered</tspan>  ???          <tspan class="d">acesso negado. por enquanto.</tspan></text>
+
+  <text x="24" y="340" class="t l" style="animation-delay:5.2s"><tspan class="r b">[!]</tspan> Vulnerabilidade encontrada: <tspan class="g">curiosidade crônica</tspan> — sem patch disponível.</text>
+
+  <text x="24" y="372" class="t l" style="animation-delay:5.8s"><tspan class="g b">└─$</tspan> <tspan class="cur g">█</tspan></text>
+</svg>
