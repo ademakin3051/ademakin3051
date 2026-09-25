@@ -27,18 +27,18 @@
   <text x="24" y="66" class="t l" style="animation-delay:.2s"><tspan class="g b">┌──(natanael㉿kali)-[~]</tspan></text>
   <text x="24" y="88" class="t l" style="animation-delay:.4s"><tspan class="g b">└─$</tspan> nmap -sV --script=skills natanaellima.blog</text>
 
-  <text x="24" y="120" class="t l d" style="animation-delay:1.2s">Starting Nmap ( https://nmap.org ) · target: Natanael Lima</text>
-  <text x="24" y="142" class="t l d" style="animation-delay:1.6s">Host is up (0.001s latency). Location: Portugal 🇵🇹</text>
+  <text x="24" y="120" class="t l d" style="animation-delay:1.2s">Starting Nmap ( https://nmap.org ) · alvo: Natanael Lima</text>
+  <text x="24" y="142" class="t l d" style="animation-delay:1.6s">Host is up (0.001s latency). Localização: Portugal 🇵🇹</text>
 
   <text x="24" y="174" class="t l b" style="animation-delay:2.1s">PORT       STATE     SERVICE      VERSION</text>
   <text x="24" y="198" class="t l" style="animation-delay:2.5s">22/tcp     <tspan class="g">open</tspan>      red-team     Kali · Metasploit · Nmap · Wireshark</text>
-  <text x="24" y="220" class="t l" style="animation-delay:2.9s">80/tcp     <tspan class="g">open</tspan>      osint        Google Dorks · WPScan · Social Eng.</text>
+  <text x="24" y="220" class="t l" style="animation-delay:2.9s">80/tcp     <tspan class="g">open</tspan>      osint        Google Dorks · WPScan · Eng. Social</text>
   <text x="24" y="242" class="t l" style="animation-delay:3.3s">443/tcp    <tspan class="g">open</tspan>      automation   Python · n8n · Zapier · Make · Selenium</text>
   <text x="24" y="264" class="t l" style="animation-delay:3.7s">3000/tcp   <tspan class="g">open</tspan>      ai-bots      OpenAI · WhatsApp API · GLPI API</text>
-  <text x="24" y="286" class="t l" style="animation-delay:4.1s">8080/tcp   <tspan class="g">open</tspan>      support      L1/L2 · Linux · Windows · macOS</text>
-  <text x="24" y="308" class="t l" style="animation-delay:4.5s">31337/tcp  <tspan class="y">filtered</tspan>  ???          <tspan class="d">access denied. for now.</tspan></text>
+  <text x="24" y="286" class="t l" style="animation-delay:4.1s">8080/tcp   <tspan class="g">open</tspan>      support      N1/N2 · Linux · Windows · macOS</text>
+  <text x="24" y="308" class="t l" style="animation-delay:4.5s">31337/tcp  <tspan class="y">filtered</tspan>  ???          <tspan class="d">acesso negado. por enquanto.</tspan></text>
 
-  <text x="24" y="340" class="t l" style="animation-delay:5.2s"><tspan class="r b">[!]</tspan> Vulnerability found: <tspan class="g">chronic curiosity</tspan> — no patch available.</text>
+  <text x="24" y="340" class="t l" style="animation-delay:5.2s"><tspan class="r b">[!]</tspan> Vulnerabilidade encontrada: <tspan class="g">curiosidade crônica</tspan> — sem patch disponível.</text>
 
   <text x="24" y="372" class="t l" style="animation-delay:5.8s"><tspan class="g b">└─$</tspan> <tspan class="cur g">█</tspan></text>
 </svg>
