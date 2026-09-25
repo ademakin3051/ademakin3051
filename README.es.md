@@ -1,9 +1,9 @@
 <div align="center">
 
-**🇬🇧 English** · [🇧🇷 Português](README.pt-BR.md) · [🇪🇸 Español](README.es.md)
+[🇬🇧 English](README.md) · [🇧🇷 Português](README.pt-BR.md) · **🇪🇸 Español**
 
 <a href="https://natanaellima.blog">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=%3E%20whoami;Natanael%20Lima%20%2F%2F%20ademakin3051;Red%20Team%20%7C%20Pentest%20%7C%20OSINT;If%20it%20repeats%2C%20I%20automate%20it%20%F0%9F%A4%96;Open%20port%3F%20I%20knock." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=%3E%20whoami;Natanael%20Lima%20%2F%2F%20ademakin3051;Red%20Team%20%7C%20Pentest%20%7C%20OSINT;Si%20se%20repite%2C%20lo%20automatizo%20%F0%9F%A4%96;%C2%BFPuerto%20abierto%3F%20Toco%20la%20puerta." alt="typing" />
 </a>
 
 <br>
@@ -11,28 +11,28 @@
 <a href="https://natanaellima.blog"><img src="https://img.shields.io/badge/natanaellima.blog-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41" /></a>
 <a href="https://www.linkedin.com/in/natanaellima10/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
 <a href="mailto:natanaellima65@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-<img src="https://komarev.com/ghpvc/?username=ademakin3051&color=00ff41&style=for-the-badge&label=INTRUDERS+DETECTED" />
+<img src="https://komarev.com/ghpvc/?username=ademakin3051&color=00ff41&style=for-the-badge&label=INTRUSOS+DETECTADOS" />
 
 </div>
 
 ---
 
-## `$ ls ~/projects --featured`
+## `$ ls ~/proyectos --destacados`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔍 [Google Dork Scanner v3](https://github.com/ademakin3051/ferramentagoogledorks)
-Google Dork recon straight from the terminal. Dork database sorted by category, multiple operation modes and API integration. Built to find what got exposed by accident.
+Recon con Google Dorks directo desde la terminal. Base de dorks organizada por categoría, varios modos de operación e integración con API. Hecha para encontrar lo que quedó expuesto sin querer.
 
 `Python` `OSINT` `Recon`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [GLPI Bot + AI + WhatsApp](https://github.com/ademakin3051/botglpi)
-Support chatbot that opens and tracks GLPI tickets over WhatsApp, summarizes ticket history with GPT and hands off to a human when needed. Service desk on autopilot.
+### 🤖 [Bot GLPI + IA + WhatsApp](https://github.com/ademakin3051/botglpi)
+Chatbot de soporte que abre y consulta tickets en GLPI por WhatsApp, resume el historial con GPT y deriva a un humano cuando hace falta. Service desk en piloto automático.
 
 `n8n` `GLPI API` `OpenAI` `Evolution API`
 
@@ -42,15 +42,15 @@ Support chatbot that opens and tracks GLPI tickets over WhatsApp, summarizes tic
 <td width="50%" valign="top">
 
 ### 🌐 [natanaellima.blog](https://github.com/ademakin3051/portifolio)
-My HQ on the web. Portfolio + blog with an animated terminal, case studies and articles. Pure HTML, CSS and JS — zero frameworks, zero fluff.
+Mi cuartel general en la web. Portafolio + blog con terminal animada, case studies y artículos. HTML, CSS y JS puros — cero frameworks, cero relleno.
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### ⌨️ [Auto Typer](https://github.com/ademakin3051/digitador-automatico)
-Simulates human typing in any editor. Tkinter GUI, keyboard control with pynput. Looks like I'm live coding — I'm not.
+### ⌨️ [Digitador Automático](https://github.com/ademakin3051/digitador-automatico)
+Simula escritura humana en cualquier editor. Interfaz en Tkinter, control del teclado con pynput. Parece que estoy programando en vivo — y no.
 
 `Python` `Tkinter` `pynput`
 
@@ -60,40 +60,40 @@ Simulates human typing in any editor. Tkinter GUI, keyboard control with pynput.
 
 ---
 
-## `$ cat about_me.txt`
+## `$ cat sobre_mi.txt`
 
 ```bash
 ┌──(natanael㉿kali)-[~]
-└─$ ./profile.sh
+└─$ ./perfil.sh
 
-[+] name ........ Natanael Lima
-[+] base ........ Portugal 🇵🇹  (made in Brazil 🇧🇷)
-[+] focus ....... Red Team · Pentest · OSINT · Social Engineering
-[+] also ........ Automation (RPA) · AI Chatbots · IT Support L1/L2
-[+] studying .... Cyber Security @ Uninter
-[+] languages ... Portuguese (native) · Spanish (B2) · English (upgrading)
+[+] nombre ...... Natanael Lima
+[+] base ........ Portugal 🇵🇹  (made in Brasil 🇧🇷)
+[+] enfoque ..... Red Team · Pentest · OSINT · Ingeniería Social
+[+] también ..... Automatización (RPA) · Chatbots con IA · Soporte N1/N2
+[+] estudiando .. Ciberseguridad @ Uninter
+[+] idiomas ..... Portugués (nativo) · Español (B2) · Inglés (mejorando)
 
-[*] Started in hardware: repaired machines, reimaged PCs, set up networks, joined them to domains.
-[*] Did my time in L2 support: ticketing, FortiClient, inventory, corporate imaging.
-[*] Now I automate processes with Python, n8n and Zapier and build AI bots.
-[*] In my free time (and not-so-free time): I break things to learn how to protect them.
+[*] Empecé en el hardware: abrí equipos, formateé, armé redes, uní PCs al dominio.
+[*] Pasé por soporte N2: tickets, FortiClient, inventario, imagen corporativa.
+[*] Hoy automatizo procesos con Python, n8n y Zapier y creo bots con IA.
+[*] En mis ratos libres (y en los no tan libres): rompo cosas para entender cómo protegerlas.
 
-[!] Open to opportunities: Pentest · Red Team · Service Desk · Automation
+[!] Abierto a oportunidades: Pentest · Red Team · Service Desk · Automatización
 ```
 
 ---
 
 ## `$ which arsenal`
 
-**Offensive**
+**Ofensivo**
 
 <img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=gnubash&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF41" /> <img src="https://img.shields.io/badge/WPScan-000000?style=flat-square&logo=wordpress&logoColor=00FF41" /> <img src="https://img.shields.io/badge/OSINT-000000?style=flat-square&logo=searxng&logoColor=00FF41" />
 
-**Automation & AI**
+**Automatización & IA**
 
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41" /> <img src="https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Zapier-000000?style=flat-square&logo=zapier&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=make&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Selenium-000000?style=flat-square&logo=selenium&logoColor=00FF41" /> <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=00FF41" />
 
-**Infra & Support**
+**Infra & Soporte**
 
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=00FF41" /> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=00FF41" /> <img src="https://img.shields.io/badge/GLPI-000000?style=flat-square&logo=glpi&logoColor=00FF41" /> <img src="https://img.shields.io/badge/FortiClient-000000?style=flat-square&logo=fortinet&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Moodle-000000?style=flat-square&logo=moodle&logoColor=00FF41" />
 
@@ -103,7 +103,7 @@ Simulates human typing in any editor. Tkinter GUI, keyboard control with pynput.
 
 <div align="center">
 
-<img src="scan.svg" alt="nmap scan" width="100%" />
+<img src="scan.es.svg" alt="nmap scan" width="100%" />
 
 </div>
 
@@ -114,7 +114,7 @@ Simulates human typing in any editor. Tkinter GUI, keyboard control with pynput.
 <img src="banner.gif" width="220" />
 
 ```
-> connection closed. come back anytime. or don't, I'll know either way. 👁️
+> conexión cerrada. vuelve cuando quieras. o no, igual me voy a enterar. 👁️
 ```
 
 </div>
