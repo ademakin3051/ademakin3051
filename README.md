@@ -97,14 +97,11 @@ Simula digitação humana em qualquer editor. Interface em Tkinter, controle de 
 
 ---
 
-## `$ git log --stats`
+## `$ nmap -sV natanael`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ademakin3051&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademakin3051&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ademakin3051&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="scan.svg" alt="scan" width="100%" />
 
 </div>
 
