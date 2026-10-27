@@ -2,6 +2,8 @@
 
 **🇬🇧 English** · [🇧🇷 Português](README.pt-BR.md) · [🇪🇸 Español](README.es.md)
 
+<img src="header.svg" alt="Natanael Lima — Pentester · Red Team · Offensive Security" width="100%" />
+
 # Natanael Lima
 
 ### Penetration Tester · Red Team · Offensive Security · OSINT
@@ -9,7 +11,7 @@
 Cybersecurity professional based in Portugal 🇵🇹 — ethical hacking, vulnerability assessment, reconnaissance and security automation with Python.
 
 <a href="https://natanaellima.blog">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration%20Tester%20%7C%20Red%20Team;Offensive%20Security%20%C2%B7%20OSINT%20%C2%B7%20Recon;Security%20Automation%20with%20Python;Based%20in%20Portugal%20%C2%B7%20Open%20to%20work" alt="Natanael Lima - Penetration Tester, Red Team, Offensive Security, OSINT, Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration%20Tester%20%7C%20Red%20Team;Recon%20%E2%86%92%20Enumerate%20%E2%86%92%20Exploit%20%E2%86%92%20Report;Think%20like%20an%20attacker.%20Defend%20like%20an%20engineer.;Based%20in%20Portugal%20%C2%B7%20Open%20to%20work" alt="Natanael Lima - Penetration Tester, Red Team, Offensive Security, OSINT, Python" />
 </a>
 
 <a href="https://www.linkedin.com/in/natanaellima10/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
@@ -23,7 +25,7 @@ Cybersecurity professional based in Portugal 🇵🇹 — ethical hacking, vulne
 
 ---
 
-## 🛠️ Featured projects
+## 🛠️ Featured projects &nbsp;`ls ~/projects`
 
 <table>
 <tr>
@@ -66,15 +68,15 @@ Personal portfolio and **cybersecurity blog** — case studies, projects and art
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About me &nbsp;`whoami`
 
-I'm **Natanael Lima**, an IT and cybersecurity professional focused on **offensive security**: penetration testing, red team techniques, reconnaissance, OSINT and social engineering.
+I'm **Natanael Lima**, a **pentester and red team enthusiast**. My job is to think like an attacker — map the attack surface, find the weak spot and prove the impact — so companies fix it before someone else finds it. My focus: **penetration testing, red team techniques, reconnaissance, OSINT and social engineering**, always within an **authorized scope**.
 
 I bring **5+ years of hands-on IT experience** — hardware, networking and L1/L2 service desk at companies like **Grupo Positivo** — which gives me a practical view of how corporate environments are built and where they break. Today I combine security with **automation**: Python, n8n and AI-powered chatbots that remove manual work from support and operations.
 
 **Degree in Cybersecurity** — Uninter (2023).
 
-## 🎯 Open to
+## 🎯 Open to &nbsp;`cat target.txt`
 
 - **Roles:** Junior Penetration Tester · Red Team Analyst · Cybersecurity Analyst · IT Service Desk / IT Support · Security & Process Automation
 - **Location:** Portugal (Setúbal / Lisbon area) · on-site, hybrid or remote
@@ -82,7 +84,24 @@ I bring **5+ years of hands-on IT experience** — hardware, networking and L1/L
 
 ---
 
-## 🧰 Core skills
+## ⚔️ Attack chain &nbsp;`./engage.sh --scope authorized`
+
+How I approach a penetration test, from first contact to final report:
+
+| Phase | What I do | Tools |
+|---|---|---|
+| `01` Recon | OSINT, Google Dorking and attack surface mapping | OSINT · Google Dorks · Nmap |
+| `02` Enumeration | Hosts, open ports, services, versions and CMS fingerprinting | Nmap · WPScan |
+| `03` Analysis | Web request interception and network traffic analysis | Burp Suite · Wireshark |
+| `04` Exploitation | Validating vulnerabilities and proving real impact in authorized environments | Metasploit · Kali Linux |
+| `05` Reporting | Clear findings, risk and remediation steps the team can act on | Markdown · Python |
+| `06` Automation | Turning repetitive steps into my own scripts and tools | Python |
+
+> 🔐 **Rules of engagement first.** No scope, no scan.
+
+---
+
+## 🧰 Core skills &nbsp;`which arsenal`
 
 - **Offensive Security:** Penetration Testing · Red Teaming · Ethical Hacking · Vulnerability Assessment · Reconnaissance · OSINT · Google Dorking · Social Engineering · WordPress Security
 - **Security Tools:** Kali Linux · Metasploit · Nmap · Wireshark · WPScan · Burp Suite
@@ -100,7 +119,7 @@ I bring **5+ years of hands-on IT experience** — hardware, networking and L1/L
 
 ---
 
-## 📡 Recon on myself
+## 📡 Recon on myself &nbsp;`nmap -sV natanael`
 
 <div align="center">
 
@@ -110,7 +129,7 @@ I bring **5+ years of hands-on IT experience** — hardware, networking and L1/L
 
 ---
 
-## 📬 Let's talk
+## 📬 Let's talk &nbsp;`nc -lvnp 443`
 
 Recruiters and security teams: the fastest way to reach me is **[LinkedIn](https://www.linkedin.com/in/natanaellima10/)** or **[natanaellima65@gmail.com](mailto:natanaellima65@gmail.com)**.
 

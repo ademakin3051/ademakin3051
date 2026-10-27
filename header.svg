@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="170" viewBox="0 0 860 170">
+  <defs>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00ff41" opacity=".05"/>
+    </pattern>
+  </defs>
+  <style>
+    .n { font: 800 74px 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; letter-spacing: 6px; }
+    .s { font: 500 17px 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #8b949e; letter-spacing: 1px; }
+    .r { fill: #ff0055; opacity: .7; animation: gr 4s steps(1) infinite; }
+    .c { fill: #00e5ff; opacity: .6; animation: gc 4s steps(1) infinite; }
+    @keyframes gr { 0%,88%,100% { transform: translate(0,0); } 90% { transform: translate(-5px,2px); } 94% { transform: translate(4px,-2px); } }
+    @keyframes gc { 0%,88%,100% { transform: translate(0,0); } 90% { transform: translate(5px,-1px); } 94% { transform: translate(-4px,2px); } }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="860" height="170" rx="10" fill="#0d1117"/>
+  <rect width="860" height="170" rx="10" fill="url(#lines)"/>
+  <rect x=".5" y=".5" width="859" height="169" rx="10" fill="none" stroke="#00ff41" stroke-opacity=".35"/>
+  <text x="430" y="98" text-anchor="middle" class="n r">NATANAEL</text>
+  <text x="430" y="98" text-anchor="middle" class="n c">NATANAEL</text>
+  <text x="430" y="98" text-anchor="middle" class="n" fill="#00ff41" filter="url(#glow)">NATANAEL</text>
+  <text x="430" y="138" text-anchor="middle" class="s">root@kali:~# pentest · red team · offensive security<tspan class="cur" fill="#00ff41">_</tspan></text>
+</svg>

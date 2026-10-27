@@ -2,6 +2,8 @@
 
 [🇬🇧 English](README.md) · **🇧🇷 Português** · [🇪🇸 Español](README.es.md)
 
+<img src="header.svg" alt="Natanael Lima — Pentester · Red Team · Offensive Security" width="100%" />
+
 # Natanael Lima
 
 ### Pentester · Red Team · Segurança Ofensiva · OSINT
@@ -9,7 +11,7 @@
 Profissional de cibersegurança em Portugal 🇵🇹 — hacking ético, análise de vulnerabilidades, reconhecimento e automação de segurança com Python.
 
 <a href="https://natanaellima.blog">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Pentester%20%7C%20Red%20Team;Seguran%C3%A7a%20Ofensiva%20%C2%B7%20OSINT%20%C2%B7%20Recon;Automa%C3%A7%C3%A3o%20de%20Seguran%C3%A7a%20com%20Python;Em%20Portugal%20%C2%B7%20Aberto%20a%20oportunidades" alt="Natanael Lima - Pentester, Red Team, Segurança Ofensiva, OSINT, Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Pentester%20%7C%20Red%20Team;Recon%20%E2%86%92%20Enumera%C3%A7%C3%A3o%20%E2%86%92%20Explora%C3%A7%C3%A3o%20%E2%86%92%20Relat%C3%B3rio;Pense%20como%20atacante.%20Defenda%20como%20engenheiro.;Em%20Portugal%20%C2%B7%20Aberto%20a%20oportunidades" alt="Natanael Lima - Pentester, Red Team, Segurança Ofensiva, OSINT, Python" />
 </a>
 
 <a href="https://www.linkedin.com/in/natanaellima10/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
@@ -23,7 +25,7 @@ Profissional de cibersegurança em Portugal 🇵🇹 — hacking ético, anális
 
 ---
 
-## 🛠️ Projetos em destaque
+## 🛠️ Projetos em destaque &nbsp;`ls ~/projetos`
 
 <table>
 <tr>
@@ -66,15 +68,15 @@ Portfólio pessoal e **blog de cibersegurança** — case studies, projetos e ar
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim &nbsp;`whoami`
 
-Sou **Natanael Lima**, profissional de TI e cibersegurança com foco em **segurança ofensiva**: testes de intrusão (pentest), técnicas de red team, reconhecimento, OSINT e engenharia social.
+Sou **Natanael Lima**, **pentester e entusiasta de red team**. Meu trabalho é pensar como um atacante — mapear a superfície de ataque, achar o ponto fraco e provar o impacto — para que a empresa corrija antes que outra pessoa encontre. Meu foco: **testes de intrusão (pentest), técnicas de red team, reconhecimento, OSINT e engenharia social**, sempre dentro de um **escopo autorizado**.
 
 Tenho **mais de 5 anos de experiência prática em TI** — hardware, redes e suporte N1/N2 em empresas como o **Grupo Positivo** — o que me dá uma visão real de como ambientes corporativos são montados e onde eles falham. Hoje uno segurança e **automação**: Python, n8n e chatbots com IA que eliminam trabalho manual no suporte e na operação.
 
 **Graduado em Cibersegurança** — Uninter (2023).
 
-## 🎯 Aberto a
+## 🎯 Aberto a &nbsp;`cat alvo.txt`
 
 - **Vagas:** Pentester Júnior · Analista Red Team · Analista de Cibersegurança · Service Desk / Suporte de TI · Automação de Processos e Segurança
 - **Localização:** Portugal (Setúbal / região de Lisboa) · presencial, híbrido ou remoto
@@ -82,7 +84,24 @@ Tenho **mais de 5 anos de experiência prática em TI** — hardware, redes e su
 
 ---
 
-## 🧰 Competências
+## ⚔️ Attack chain &nbsp;`./engage.sh --scope autorizado`
+
+Como eu conduzo um pentest, do primeiro contato ao relatório final:
+
+| Fase | O que eu faço | Ferramentas |
+|---|---|---|
+| `01` Recon | OSINT, Google Dorking e mapeamento da superfície de ataque | OSINT · Google Dorks · Nmap |
+| `02` Enumeração | Hosts, portas abertas, serviços, versões e identificação de CMS | Nmap · WPScan |
+| `03` Análise | Interceptação de requisições web e análise de tráfego de rede | Burp Suite · Wireshark |
+| `04` Exploração | Validação de vulnerabilidades e prova de impacto real em ambientes autorizados | Metasploit · Kali Linux |
+| `05` Relatório | Achados claros, nível de risco e passos de correção que o time consegue aplicar | Markdown · Python |
+| `06` Automação | Transformo tarefas repetitivas em scripts e ferramentas próprias | Python |
+
+> 🔐 **Regras de engajamento primeiro.** Sem escopo, sem scan.
+
+---
+
+## 🧰 Competências &nbsp;`which arsenal`
 
 - **Segurança Ofensiva:** Pentest · Red Team · Hacking Ético · Análise de Vulnerabilidades · Reconhecimento · OSINT · Google Dorking · Engenharia Social · Segurança WordPress
 - **Ferramentas:** Kali Linux · Metasploit · Nmap · Wireshark · WPScan · Burp Suite
@@ -100,7 +119,7 @@ Tenho **mais de 5 anos de experiência prática em TI** — hardware, redes e su
 
 ---
 
-## 📡 Recon em mim mesmo
+## 📡 Recon em mim mesmo &nbsp;`nmap -sV natanael`
 
 <div align="center">
 
@@ -110,7 +129,7 @@ Tenho **mais de 5 anos de experiência prática em TI** — hardware, redes e su
 
 ---
 
-## 📬 Vamos conversar
+## 📬 Vamos conversar &nbsp;`nc -lvnp 443`
 
 Recrutadores e times de segurança: o jeito mais rápido de falar comigo é pelo **[LinkedIn](https://www.linkedin.com/in/natanaellima10/)** ou **[natanaellima65@gmail.com](mailto:natanaellima65@gmail.com)**.
 
