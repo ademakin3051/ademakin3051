@@ -72,20 +72,20 @@ Soy **Natanael Lima**, profesional de TI y ciberseguridad enfocado en **segurida
 
 Tengo **más de 5 años de experiencia práctica en TI** — hardware, redes y soporte N1/N2 en empresas como **Grupo Positivo** — lo que me da una visión real de cómo se construyen los entornos corporativos y dónde fallan. Hoy combino seguridad y **automatización**: Python, n8n y chatbots con IA que eliminan trabajo manual en soporte y operaciones.
 
-Actualmente cursando la **carrera de Ciberseguridad** (Uninter).
+**Graduado en Ciberseguridad** — Uninter (2023).
 
 ## 🎯 Disponible para
 
 - **Puestos:** Pentester Junior · Analista Red Team · Analista de Ciberseguridad · Service Desk / Soporte TI · Automatización de Procesos y Seguridad
 - **Ubicación:** Portugal (Setúbal / área de Lisboa) · presencial, híbrido o remoto
-- **Idiomas:** Portugués (nativo) · Español (B2) · Inglés (en progreso)
+- **Idiomas:** Portugués (nativo) · Español (profesional) · Inglés (básico, en progreso)
 
 ---
 
 ## 🧰 Competencias
 
 - **Seguridad Ofensiva:** Pentest · Red Team · Hacking Ético · Análisis de Vulnerabilidades · Reconocimiento · OSINT · Google Dorking · Ingeniería Social · Seguridad WordPress
-- **Herramientas:** Kali Linux · Metasploit · Nmap · Wireshark · WPScan
+- **Herramientas:** Kali Linux · Metasploit · Nmap · Wireshark · WPScan · Burp Suite
 - **Redes y Sistemas:** Configuración de redes · Dominio Windows (Active Directory) · FortiClient VPN · Linux · Windows · macOS
 - **Automatización e IA:** Python · Selenium · RPA · n8n · Zapier · Make (Integromat) · APIs REST · Webhooks · OpenAI API · Chatbots
 - **Operaciones TI:** Service Desk N1/N2 · ITSM (GLPI) · Inventario de activos · Imagen corporativa · Mantenimiento de hardware

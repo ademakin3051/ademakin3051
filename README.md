@@ -72,20 +72,20 @@ I'm **Natanael Lima**, an IT and cybersecurity professional focused on **offensi
 
 I bring **5+ years of hands-on IT experience** — hardware, networking and L1/L2 service desk at companies like **Grupo Positivo** — which gives me a practical view of how corporate environments are built and where they break. Today I combine security with **automation**: Python, n8n and AI-powered chatbots that remove manual work from support and operations.
 
-Currently pursuing a **degree in Cybersecurity** (Uninter).
+**Degree in Cybersecurity** — Uninter (2023).
 
 ## 🎯 Open to
 
 - **Roles:** Junior Penetration Tester · Red Team Analyst · Cybersecurity Analyst · IT Service Desk / IT Support · Security & Process Automation
 - **Location:** Portugal (Setúbal / Lisbon area) · on-site, hybrid or remote
-- **Languages:** Portuguese (native) · Spanish (B2) · English (improving)
+- **Languages:** Portuguese (native) · Spanish (professional working) · English (limited working proficiency, improving)
 
 ---
 
 ## 🧰 Core skills
 
 - **Offensive Security:** Penetration Testing · Red Teaming · Ethical Hacking · Vulnerability Assessment · Reconnaissance · OSINT · Google Dorking · Social Engineering · WordPress Security
-- **Security Tools:** Kali Linux · Metasploit · Nmap · Wireshark · WPScan
+- **Security Tools:** Kali Linux · Metasploit · Nmap · Wireshark · WPScan · Burp Suite
 - **Networks & Systems:** Network configuration · Windows domain (Active Directory join) · FortiClient VPN · Linux · Windows · macOS
 - **Automation & AI:** Python · Selenium · RPA · n8n · Zapier · Make (Integromat) · REST APIs · Webhooks · OpenAI API · Chatbots
 - **IT Operations:** Service Desk L1/L2 · ITSM (GLPI) · Asset inventory · Corporate imaging · Hardware maintenance
